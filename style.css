@@ -1,8 +1,7 @@
 #shape {
-	width: 200px;
-	height: 200px;
-	background-color: red;
-	display: none;
-	position: relative;
-
+  width: 0px;
+  height: 0px;
+  font-size: 0;
+  line-height: 0;
+  position: relative;
 }
